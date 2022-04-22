@@ -1,6 +1,6 @@
 # CssProjects
 
-> Libraries for WP
+> Mini Projetos feitos com CSS e alguns com Javascript
 
-#### Back-end
+#### CSS e Html
 - [CSSCircularProgressBar](https://junior-escjr.github.io/CssProjects/CSSCircularProgressBar/)
