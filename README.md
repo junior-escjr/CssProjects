@@ -4,3 +4,7 @@
 
 #### CSS e Html
 - [CSSCircularProgressBar](https://junior-escjr.github.io/CssProjects/CSSCircularProgressBar/)
+
+
+#### CSS, Html e Js
+- [MagicNavigationMenuIndicator](https://junior-escjr.github.io/CssProjects/MagicNavigationMenuIndicator/)
