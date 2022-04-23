@@ -1,0 +1,122 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+:root {
+    --clr: #222327;
+}
+
+.wrapper {
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: var( --clr );
+}
+
+.navigation {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 400px;
+    height: 70px;
+    position: relative;
+    border-radius: 10px;
+    background-color: #fff;
+}
+.navigation ul { display: flex; width: 350px; }
+
+.navigation ul li {
+    width: 70px;
+    height: 70px;
+    position: relative;
+    list-style: none;
+    z-index: 1;
+}
+
+.navigation ul li a {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 100%;
+    font-weight: 500;
+    text-align: center;
+    position: relative;
+}
+
+.navigation ul li a .icon {
+    display: block;
+    font-size: 1.5em;
+    text-align: center;
+    line-height: 75px;
+    color: var( --clr );
+    position: relative;
+    transition: .5s;
+}
+.navigation ul li.active a .icon { transform: translateY( -32px );}
+
+.navigation ul li a .text {
+    font-size: .75em;
+    font-weight: 400;
+    color: var( --clr );
+    letter-spacing: .05em;
+    position: absolute;
+    transition: .5s;
+    opacity: 0;
+    transform: translateY( 20px );
+}
+.navigation ul li.active a .text {
+    opacity: 1;
+    transform: translateY( 10px );
+}
+
+.indicator {
+    width: 70px;
+    height: 70px;
+    position: absolute;
+    top: -50%;
+    border-radius: 50%;
+    border: 6px solid var( --clr );
+    transition: .5s;
+    background-color: #29fd53;
+}
+.indicator:before, .indicator:after {
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    top: 50%;
+    background-color: transparent;
+    content: '';
+}
+.indicator:before {
+    left: -22px;
+    border-top-right-radius: 20px;
+    box-shadow: 1px -10px 0 0 var( --clr );
+}
+.indicator:after {
+    right: -22px;
+    border-top-left-radius: 20px;
+    box-shadow: -1px -10px 0 0 var( --clr );
+}
+
+.navigation ul li:nth-child(1).active ~ .indicator {
+    transform: translateX( calc( 70px * 0 ) );
+}
+.navigation ul li:nth-child(2).active ~ .indicator {
+    transform: translateX( calc( 70px * 1 ) );
+}
+.navigation ul li:nth-child(3).active ~ .indicator {
+    transform: translateX( calc( 70px * 2 ) );
+}
+.navigation ul li:nth-child(4).active ~ .indicator {
+    transform: translateX( calc( 70px * 3 ) );
+}
+.navigation ul li:nth-child(5).active ~ .indicator {
+    transform: translateX( calc( 70px * 4 ) );
+}
