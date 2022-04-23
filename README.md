@@ -4,6 +4,7 @@
 
 #### CSS e Html
 - [CSSCircularProgressBar](https://junior-escjr.github.io/CssProjects/CSSCircularProgressBar/)
+- [CSSAnimationEffects](https://junior-escjr.github.io/CssProjects/CSSAnimationEffects/)
 
 
 #### CSS, Html e Js
