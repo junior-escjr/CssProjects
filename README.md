@@ -16,4 +16,4 @@
 - [MagicNavigationMenuIndicator](https://junior-escjr.github.io/CssProjects/MagicNavigationMenuIndicator/)
 - [AnimatedMenuUsingHtmlCSS&Javascript](https://junior-escjr.github.io/CssProjects/AnimatedMenuUsingHtmlCSS&Javascript/)
 - [HowToHideNavbarOnScrollDown&ShowOnScrollUpUsingJavascript](https://junior-escjr.github.io/CssProjects/HowToHideNavbarOnScrollDown&ShowOnScrollUpUsingJavascript/)
-- [SimpleDrag&DropTicTacToGameusingHtmlCSS&JavaScript](https://junior-escjr.github.io/CssProjects/SimpleDrag&DropTicTacToGameusingHtmlCSS&JavaScript/)
+- [SimpleDragDropTicTacToGameusingHtmlCSSJavaScript](https://junior-escjr.github.io/CssProjects/SimpleDragDropTicTacToGameusingHtmlCSSJavaScript/)
