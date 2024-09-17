@@ -1,0 +1,69 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro:ital,wght@0,200..900;1,200..900&display=swap');
+
+* {
+    font-family: "Source Code Pro", sans-serif;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #262626;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    height: 80px;
+    padding: 0 50px;
+    position: fixed;
+    top: 0;
+    background-color: #2fe05e;
+    transition: .5s;
+}
+
+header.active {
+    top: -80px;
+}
+
+header .logo {
+    font-size: 1.8em;
+    font-weight: 700;
+    text-decoration: none;
+    color: #212322;
+}
+
+header ul {
+    display: flex;
+    list-style: none;
+}
+
+header ul li a {
+    font-size: 1.1em;
+    font-weight: 700;
+    text-decoration: none;
+    color: #212322;
+    padding: 0 20px;
+}
+
+section {
+    padding: 150px 50px 100px;
+}
+
+section h2 {
+    font-size: 3em;
+    line-height: 1em;
+    color: #fff;
+}
+
+section h2 span {
+    font-size: .75em;
+    color: #2fe05e;
+}
+
+section p {
+    font-size: 1.05em;
+    color: #9f9f9f;
+}
