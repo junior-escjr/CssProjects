@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Animated Menu using Html CSS & Javascript</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="navigation">
+        <div class="toggle">
+            <span></span>
+        </div>
+        <ul>
+            <li style="--i:0"><a href="javascript:;">Home</a></li>
+            <li style="--i:1"><a href="javascript:;">Sobre</a></li>
+            <li style="--i:2"><a href="javascript:;">Serviços</a></li>
+            <li style="--i:3"><a href="javascript:;">Portfólio</a></li>
+            <li style="--i:4"><a href="javascript:;">Team</a></li>
+            <li style="--i:5"><a href="javascript:;">Contato</a></li>
+        </ul>
+    </div>
+
+    <script>
+        let navigation = document.querySelector('.navigation');
+
+        document.querySelector('.toggle').onclick = function() {
+            this.classList.toggle('active');
+            navigation.classList.toggle('active');
+        }
+    </script>
+</body>
+</html>
