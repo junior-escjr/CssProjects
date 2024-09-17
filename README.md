@@ -9,6 +9,7 @@
 - [CSSCustomCheckboxUIDesign](https://junior-escjr.github.io/CssProjects/CSSCustomCheckboxUIDesign/)
 - [CSSGlassmorphismButtonHoverEffects](https://junior-escjr.github.io/CssProjects/CSSGlassmorphismButtonHoverEffects/)
 - [CSSInputFieldTextandGradientBorderAnimationEffects](https://junior-escjr.github.io/CssProjects/CSSInputFieldTextandGradientBorderAnimationEffects/)
+- [CSSOnlyKeyboardKeysUIDesign](https://junior-escjr.github.io/CssProjects/CSSOnlyKeyboardKeysUIDesign/)
 
 
 #### CSS, Html e Js
