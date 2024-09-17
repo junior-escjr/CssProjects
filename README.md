@@ -8,6 +8,7 @@
 - [AnimatedLoginFormwithSourceCode](https://junior-escjr.github.io/CssProjects/AnimatedLoginFormwithSourceCode/)
 - [CSSCustomCheckboxUIDesign](https://junior-escjr.github.io/CssProjects/CSSCustomCheckboxUIDesign/)
 - [CSSGlassmorphismButtonHoverEffects](https://junior-escjr.github.io/CssProjects/CSSGlassmorphismButtonHoverEffects/)
+- [CSSInputFieldTextandGradientBorderAnimationEffects](https://junior-escjr.github.io/CssProjects/CSSInputFieldTextandGradientBorderAnimationEffects/)
 
 
 #### CSS, Html e Js
