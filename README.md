@@ -18,3 +18,4 @@
 - [HowToHideNavbarOnScrollDown&ShowOnScrollUpUsingJavascript](https://junior-escjr.github.io/CssProjects/HowToHideNavbarOnScrollDown&ShowOnScrollUpUsingJavascript/)
 - [SimpleDragDropTicTacToGameusingHtmlCSSJavaScript](https://junior-escjr.github.io/CssProjects/SimpleDragDropTicTacToGameusingHtmlCSSJavaScript/)
 - [WorkingDigitalClockinHtmlCSS&Javascript](https://junior-escjr.github.io/CssProjects/WorkingDigitalClockinHtmlCSS&Javascript/)
+- [ControleDeslizanteDeImagem3DInfinitoUsandoCSSeJavascript](https://junior-escjr.github.io/CssProjects/WControleDeslizanteDeImagem3DInfinitoUsandoCSSeJavascript/)
