@@ -20,3 +20,4 @@
 - [WorkingDigitalClockinHtmlCSS&Javascript](https://junior-escjr.github.io/CssProjects/WorkingDigitalClockinHtmlCSS&Javascript/)
 - [ControleDeslizanteDeImagem3DInfinitoUsandoCSSeJavascript](https://junior-escjr.github.io/CssProjects/ControleDeslizanteDeImagem3DInfinitoUsandoCSSeJavascript/)
 - [HowToCreateaToDoListAppInHtmlCSS&JS](https://junior-escjr.github.io/CssProjects/HowToCreateaToDoListAppInHtmlCSS&JS/)
+- [CSS3DWavyCircleAnimationEffectsRemake02](https://junior-escjr.github.io/CssProjects/CSS3DWavyCircleAnimationEffectsRemake02/)
