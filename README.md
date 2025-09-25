@@ -10,6 +10,11 @@
 - [CSSGlassmorphismButtonHoverEffects](https://junior-escjr.github.io/CssProjects/CSSGlassmorphismButtonHoverEffects/)
 - [CSSInputFieldTextandGradientBorderAnimationEffects](https://junior-escjr.github.io/CssProjects/CSSInputFieldTextandGradientBorderAnimationEffects/)
 - [CSSOnlyKeyboardKeysUIDesign](https://junior-escjr.github.io/CssProjects/CSSOnlyKeyboardKeysUIDesign/)
+- [CSS3GlowingGradientGlassmorphismCardHoverEffects](https://junior-escjr.github.io/CssProjects/CSS3GlowingGradientGlassmorphismCardHoverEffects/)
+- [HowToCreateResponsiveImageSliderUsingHTMLandCSS](https://junior-escjr.github.io/CssProjects/HowToCreateResponsiveImageSliderUsingHTMLandCSS/)
+- [CSS3DWavyCircleAnimationEffectsRemake02](https://junior-escjr.github.io/CssProjects/CSS3DWavyCircleAnimationEffectsRemake02/)
+- [NextLevelLightsaberGlowingNeonLightTextRevealAnimationEffects](https://junior-escjr.github.io/CssProjects/NextLevelLightsaberGlowingNeonLightTextRevealAnimationEffects/)
+- [PureCSSRainWithAnimatedBackgroundHtmlCSSAnimationEffects](https://junior-escjr.github.io/CssProjects/PureCSSRainWithAnimatedBackgroundHtmlCSSAnimationEffects/)
 
 
 #### CSS, Html e Js
@@ -20,5 +25,4 @@
 - [WorkingDigitalClockinHtmlCSS&Javascript](https://junior-escjr.github.io/CssProjects/WorkingDigitalClockinHtmlCSS&Javascript/)
 - [ControleDeslizanteDeImagem3DInfinitoUsandoCSSeJavascript](https://junior-escjr.github.io/CssProjects/ControleDeslizanteDeImagem3DInfinitoUsandoCSSeJavascript/)
 - [HowToCreateaToDoListAppInHtmlCSS&JS](https://junior-escjr.github.io/CssProjects/HowToCreateaToDoListAppInHtmlCSS&JS/)
-- [CSS3DWavyCircleAnimationEffectsRemake02](https://junior-escjr.github.io/CssProjects/CSS3DWavyCircleAnimationEffectsRemake02/)
-- [HowToCreateResponsiveImageSliderUsingHTMLandCSS](https://junior-escjr.github.io/CssProjects/HowToCreateResponsiveImageSliderUsingHTMLandCSS/)
+- [Light&ShadowTextShadowAnimationUsingJavascript](https://junior-escjr.github.io/CssProjects/Light&ShadowTextShadowAnimationUsingJavascript/)
