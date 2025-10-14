@@ -27,3 +27,4 @@
 - [HowToCreateaToDoListAppInHtmlCSS&JS](https://junior-escjr.github.io/CssProjects/HowToCreateaToDoListAppInHtmlCSS&JS/)
 - [Light&ShadowTextShadowAnimationUsingJavascript](https://junior-escjr.github.io/CssProjects/Light&ShadowTextShadowAnimationUsingJavascript/)
 - [HowToCreateMemoryGameInJavaScript](https://junior-escjr.github.io/CssProjects/HowToCreateMemoryGameInJavaScript/)
+- [MatrixTextEffectUsingJavaScript](https://junior-escjr.github.io/CssProjects/MatrixTextEffectUsingJavaScript/)
