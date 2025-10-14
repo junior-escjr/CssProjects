@@ -15,6 +15,7 @@
 - [CSS3DWavyCircleAnimationEffectsRemake02](https://junior-escjr.github.io/CssProjects/CSS3DWavyCircleAnimationEffectsRemake02/)
 - [NextLevelLightsaberGlowingNeonLightTextRevealAnimationEffects](https://junior-escjr.github.io/CssProjects/NextLevelLightsaberGlowingNeonLightTextRevealAnimationEffects/)
 - [PureCSSRainWithAnimatedBackgroundHtmlCSSAnimationEffects](https://junior-escjr.github.io/CssProjects/PureCSSRainWithAnimatedBackgroundHtmlCSSAnimationEffects/)
+- [SimpleCSSSci-FiCardAndHoverEffect](https://junior-escjr.github.io/CssProjects/SimpleCSSSci-FiCardAndHoverEffect/)
 
 
 #### CSS, Html e Js
